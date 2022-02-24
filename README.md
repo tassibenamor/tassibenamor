@@ -34,4 +34,8 @@
   <a href = "mailto:tassibenamor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/tassianabenamor" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://www.tassianabenamor.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+
+<!-- ![Snake animation](https://github.com/tassibenamor/tassibenamor/blob/output/github-contribution-grid-snake.svg) -->
 </div>
+
+  
