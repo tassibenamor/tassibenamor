@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23E34C26&size=30&lines=Ol%C3%A1%2C+seja+bem+vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=%23E34C26&size=30&lines=Ol%C3%A1%2C+seja+bem-vindo!)](https://git.io/typing-svg)
 
 <!--<h2 dir="auto"></h2>->>
 
